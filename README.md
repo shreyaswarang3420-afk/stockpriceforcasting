@@ -2,6 +2,10 @@
 
 A Streamlit web application that forecasts stock prices using an LSTM neural network. Enter a Yahoo Finance ticker, select the historical data range and forecast settings, then view the predicted closing-price chart and results table.
 
+## 🌐 Live Demo
+
+[Open the deployed Stock Forecasting AI application](https://web-production-8e7d1da2.up.railway.app/)
+
 ## ✨ Features
 
 - Search stocks using any valid Yahoo Finance ticker
